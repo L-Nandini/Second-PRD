@@ -54,15 +54,15 @@ NAME: Kavya Sree
 
 EMAIL: kavyasreechedipothula@gmail.com
 
-REPOSITORY URL:
+REPOSITORY URL: https://github.com/kavyasreechedipothula-ctrl/Second-PRD
 
 PROJECT TITLE: Student Marks and Grade Report
 
 REQUIRED FILES STATUS: False
 
-PROGRAM STATUS: False
+PROGRAM STATUS: True
 
-OUTPUT STATUS: False
+OUTPUT STATUS: True
 
 FINAL STATUS: False
 
