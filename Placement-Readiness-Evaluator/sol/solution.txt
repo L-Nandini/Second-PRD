@@ -1,0 +1,33 @@
+PLACEMENT READINESS REPORT
+
+Student Name: Ananya
+Academic Status: Eligible
+Attendance Status: Eligible
+Backlog Status: Eligible
+Project Status: Completed
+Communication Status: Eligible
+Aptitude Status: Eligible
+
+Final Result: PLACEMENT READY
+Message: All placement requirements are satisfied.
+
+______________________________________________________________________________________________________
+
+
+PLACEMENT READINESS REPORT
+
+Student Name: Kiran
+Academic Status: Eligible
+Attendance Status: Not Eligible
+Backlog Status: Eligible
+Project Status: Not Completed
+Communication Status: Eligible
+Aptitude Status: Not Eligible
+
+Final Result: NOT PLACEMENT READY
+Message: Not all placement requirements are satisfied.
+
+Areas to Improve:
+Attendance
+Project Completion
+Aptitude
