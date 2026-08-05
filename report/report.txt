@@ -74,15 +74,15 @@ NAME: Revanth
 
 EMAIL: revantht003@gmail.com
 
-REPOSITORY URL:
+REPOSITORY URL: https://github.com/Dhanush914/Second-PRD
 
 PROJECT TITLE: Attendance and Consistency Tracker
 
 REQUIRED FILES STATUS: False
 
-PROGRAM STATUS: False
+PROGRAM STATUS: True
 
-OUTPUT STATUS: False
+OUTPUT STATUS: True
 
 FINAL STATUS: False
 
@@ -114,17 +114,17 @@ NAME: Mokshith
 
 EMAIL: smokshith590@gmail.com
 
-REPOSITORY URL: https://github.com/kondraguntayugandhar/Second_PRD
+REPOSITORY URL: https://github.com/MokshithSathish/Second-PRD
 
 PROJECT TITLE: Health and Fitness Status Calculator
 
-REQUIRED FILES STATUS: True
+REQUIRED FILES STATUS: False
 
 PROGRAM STATUS: True
 
 OUTPUT STATUS: True
 
-FINAL STATUS: True
+FINAL STATUS: False
 
 ============================================================
 
@@ -134,15 +134,15 @@ NAME: Monika
 
 EMAIL: monikasasi143@gmail.com
 
-REPOSITORY URL:
+REPOSITORY URL: https://github.com/monikaprakash09/Second-PRD
 
 PROJECT TITLE: Daily Study Hours Evaluator
 
 REQUIRED FILES STATUS: False
 
-PROGRAM STATUS: False
+PROGRAM STATUS: True
 
-OUTPUT STATUS: False
+OUTPUT STATUS: True
 
 FINAL STATUS: False
 
