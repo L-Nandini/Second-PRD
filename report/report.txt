@@ -138,13 +138,13 @@ REPOSITORY URL: https://github.com/monikaprakash09/Second-PRD
 
 PROJECT TITLE: Daily Study Hours Evaluator
 
-REQUIRED FILES STATUS: False
+REQUIRED FILES STATUS: True
 
 PROGRAM STATUS: True
 
 OUTPUT STATUS: True
 
-FINAL STATUS: False
+FINAL STATUS: True
 
 ============================================================
 
