@@ -58,13 +58,13 @@ REPOSITORY URL:
 
 PROJECT TITLE: Student Marks and Grade Report
 
-REQUIRED FILES STATUS:
+REQUIRED FILES STATUS: False
 
-PROGRAM STATUS:
+PROGRAM STATUS: False
 
-OUTPUT STATUS:
+OUTPUT STATUS: False
 
-FINAL STATUS:
+FINAL STATUS: False
 
 ============================================================
 
@@ -98,13 +98,13 @@ REPOSITORY URL:
 
 PROJECT TITLE: Interview Preparation Progress Checker
 
-REQUIRED FILES STATUS:
+REQUIRED FILES STATUS: True
 
-PROGRAM STATUS:
+PROGRAM STATUS: True
 
-OUTPUT STATUS:
+OUTPUT STATUS: True
 
-FINAL STATUS:
+FINAL STATUS: True
 
 ============================================================
 
