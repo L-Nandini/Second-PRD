@@ -1,0 +1,199 @@
+TEAM NUMBER: 6
+
+TEAM LEADER NAME: L Nandini
+
+TOTAL TEAM MEMBERS: 11
+
+SUBMISSION DEADLINE: AUGUST 5, 2026 — 6:00 PM
+
+============================================================
+
+SL. NO.: 1
+
+NAME: L Nandini
+
+EMAIL: laknandu123@gmail.com
+
+REPOSITORY URL: https://github.com/L-Nandini/Second-PRD
+
+PROJECT TITLE: Placement Readiness Evaluator
+
+REQUIRED FILES STATUS: True
+
+PROGRAM STATUS: True
+
+OUTPUT STATUS: True
+
+FINAL STATUS: True
+
+============================================================
+
+SL. NO.: 2
+
+NAME: Divyasree
+
+EMAIL: divyasreejinka@gmail.com
+
+REPOSITORY URL: https://github.com/divyasreejinka/Second-PRD
+
+PROJECT TITLE: Mock Test Attempt Manager
+
+REQUIRED FILES STATUS: True
+
+PROGRAM STATUS: True
+
+OUTPUT STATUS: True
+
+FINAL STATUS: True
+
+============================================================
+
+SL. NO.: 3
+
+NAME: Kavya Sree
+
+EMAIL: kavyasreechedipothula@gmail.com
+
+REPOSITORY URL:
+
+PROJECT TITLE: Student Marks and Grade Report
+
+REQUIRED FILES STATUS:
+
+PROGRAM STATUS:
+
+OUTPUT STATUS:
+
+FINAL STATUS:
+
+============================================================
+
+SL. NO.: 4
+
+NAME: Revanth
+
+EMAIL: revantht003@gmail.com
+
+REPOSITORY URL:
+
+PROJECT TITLE: Attendance and Consistency Tracker
+
+REQUIRED FILES STATUS:
+
+PROGRAM STATUS:
+
+OUTPUT STATUS:
+
+FINAL STATUS:
+
+============================================================
+
+SL. NO.: 5
+
+NAME: M Tejasree
+
+EMAIL: mukkaratejasree@gmail.com
+
+REPOSITORY URL:
+
+PROJECT TITLE: Interview Preparation Progress Checker
+
+REQUIRED FILES STATUS:
+
+PROGRAM STATUS:
+
+OUTPUT STATUS:
+
+FINAL STATUS:
+
+============================================================
+
+SL. NO.: 6
+
+NAME: Mokshith
+
+EMAIL: smokshith590@gmail.com
+
+REPOSITORY URL:
+
+PROJECT TITLE: Health and Fitness Status Calculator
+
+REQUIRED FILES STATUS:
+
+PROGRAM STATUS:
+
+OUTPUT STATUS:
+
+FINAL STATUS:
+
+============================================================
+
+SL. NO.: 7
+
+NAME: Monika
+
+EMAIL: monikasasi143@gmail.com
+
+REPOSITORY URL:
+
+PROJECT TITLE: Daily Study Hours Evaluator
+
+REQUIRED FILES STATUS:
+
+PROGRAM STATUS:
+
+OUTPUT STATUS:
+
+FINAL STATUS:
+
+============================================================
+
+SL. NO.: 8
+
+NAME: Yugandhar
+
+EMAIL: kondraguntayugandhar254@gmail.com
+
+REPOSITORY URL: https://github.com/kondraguntayugandhar/Second_PRD
+
+PROJECT TITLE: Product Purchase and Discount Calculator
+
+REQUIRED FILES STATUS: True
+
+PROGRAM STATUS: True
+
+OUTPUT STATUS: True
+
+FINAL STATUS: True
+
+============================================================
+
+SL. NO.: 9
+
+NAME: Sukeerth Reddy OG
+
+EMAIL: sukeerthreddy9@gmail.com
+
+STATUS: ABSENT
+
+============================================================
+
+SL. NO.: 10
+
+NAME: Nithin Kumar
+
+EMAIL: nithinkumarmallu555@gmail.com
+
+STATUS: ABSENT
+
+============================================================
+
+SL. NO.: 11
+
+NAME: Sanjay Kumar
+
+EMAIL: sanjayboya2005@gmail.com
+
+STATUS: ABSENT
+
+============================================================
