@@ -78,13 +78,13 @@ REPOSITORY URL:
 
 PROJECT TITLE: Attendance and Consistency Tracker
 
-REQUIRED FILES STATUS:
+REQUIRED FILES STATUS: False
 
-PROGRAM STATUS:
+PROGRAM STATUS: False
 
-OUTPUT STATUS:
+OUTPUT STATUS: False
 
-FINAL STATUS:
+FINAL STATUS: False
 
 ============================================================
 
@@ -94,7 +94,7 @@ NAME: M Tejasree
 
 EMAIL: mukkaratejasree@gmail.com
 
-REPOSITORY URL:
+REPOSITORY URL: https://github.com/mukkaratejasree-spec/Second_PRD
 
 PROJECT TITLE: Interview Preparation Progress Checker
 
@@ -114,17 +114,17 @@ NAME: Mokshith
 
 EMAIL: smokshith590@gmail.com
 
-REPOSITORY URL:
+REPOSITORY URL: https://github.com/kondraguntayugandhar/Second_PRD
 
 PROJECT TITLE: Health and Fitness Status Calculator
 
-REQUIRED FILES STATUS:
+REQUIRED FILES STATUS: True
 
-PROGRAM STATUS:
+PROGRAM STATUS: True
 
-OUTPUT STATUS:
+OUTPUT STATUS: True
 
-FINAL STATUS:
+FINAL STATUS: True
 
 ============================================================
 
@@ -138,13 +138,13 @@ REPOSITORY URL:
 
 PROJECT TITLE: Daily Study Hours Evaluator
 
-REQUIRED FILES STATUS:
+REQUIRED FILES STATUS: False
 
-PROGRAM STATUS:
+PROGRAM STATUS: False
 
-OUTPUT STATUS:
+OUTPUT STATUS: False
 
-FINAL STATUS:
+FINAL STATUS: False
 
 ============================================================
 
