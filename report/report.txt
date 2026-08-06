@@ -118,13 +118,13 @@ REPOSITORY URL: https://github.com/MokshithSathish/Second-PRD
 
 PROJECT TITLE: Health and Fitness Status Calculator
 
-REQUIRED FILES STATUS: False
+REQUIRED FILES STATUS: True
 
 PROGRAM STATUS: True
 
 OUTPUT STATUS: True
 
-FINAL STATUS: False
+FINAL STATUS: True
 
 ============================================================
 
