@@ -58,13 +58,13 @@ REPOSITORY URL: https://github.com/kavyasreechedipothula-ctrl/Second-PRD
 
 PROJECT TITLE: Student Marks and Grade Report
 
-REQUIRED FILES STATUS: False
+REQUIRED FILES STATUS: True
 
 PROGRAM STATUS: True
 
 OUTPUT STATUS: True
 
-FINAL STATUS: False
+FINAL STATUS: True
 
 ============================================================
 
